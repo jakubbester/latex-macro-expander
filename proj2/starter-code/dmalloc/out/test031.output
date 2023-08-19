@@ -1,0 +1,2 @@
+MEMORY BUG: test031.cc:9: invalid free of pointer 0x6dbf80, not allocated
+  test031.cc:8: 0x6dbf80 is 128 bytes inside a 2001 byte region allocated here

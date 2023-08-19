@@ -1,0 +1,6 @@
+p-allocator a
+p-fork f
+p-forkexit e
+p-test t
+
+remember to ask about sys_page_alloc() function

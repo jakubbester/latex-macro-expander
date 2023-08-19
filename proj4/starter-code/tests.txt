@@ -1,0 +1,16 @@
+Generic Cases
+ls ; ls ; ls ; ls &
+sleep 2 & sleep 2 & sleep 2 & sleep 2
+
+A ; B & C
+A & B & C
+A & B
+
+All Errors
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "array": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "vector": "c",
+        "iterator": "c",
+        "string_view": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "lib.h": "c"
+    }
+}

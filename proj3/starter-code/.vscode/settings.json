@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "optimizer.h": "c",
+        "optional": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "variant": "c",
+        "typeindex": "c",
+        "typeinfo": "c"
+    }
+}

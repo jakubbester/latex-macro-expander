@@ -1,0 +1,8 @@
+{
+    "diffEditor.wordWrap": "on",
+    "files.associations": {
+        "functional": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp"
+    }
+}

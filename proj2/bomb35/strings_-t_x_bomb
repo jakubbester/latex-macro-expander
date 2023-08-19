@@ -1,0 +1,655 @@
+    1b4 /lib/ld-linux.so.2
+    499 _IO_stdin_used
+    4a8 socket
+    4af fflush
+    4b6 strcpy
+    4bd exit
+    4c2 sprintf
+    4ca fopen
+    4d0 __isoc99_sscanf
+    4e0 connect
+    4e8 signal
+    4ef puts
+    4f4 stdin
+    4fa strtol
+    501 fgets
+    507 strlen
+    50e __errno_location
+    51f read
+    524 stdout
+    52b malloc
+    532 strcasecmp
+    53d __ctype_b_loc
+    54b getenv
+    552 stderr
+    559 alarm
+    55f gethostbyname
+    56d gethostname
+    579 close
+    57f fprintf
+    587 sleep
+    58d memmove
+    595 strcmp
+    59c __libc_start_main
+    5ae write
+    5b4 libc.so.6
+    5be GLIBC_2.3
+    5c8 GLIBC_2.1
+    5d2 GLIBC_2.7
+    5dc GLIBC_2.0
+    5e6 __gmon_start__
+   1581 For 
+   1588 NASA
+   158f , sp
+   1596 ace 
+   159d is s
+   15a4 till
+   15ab  a h
+   15b2 igh 
+   15b7 @ prio
+   15be @$rityf
+   17d7 UWVS
+   17df |$ W
+   18ac <[^_]
+   1c56 RPh1
+   1dca UWVS
+   1e69 [^_]
+   1e75 UWVS
+   1fef Erro
+   1ff6 r: C
+   1ffd lien
+   2004 t un
+   200b able
+   2012  to 
+   2019 crea
+   2020 te s
+   2025 @ ockef
+   2044 Erro
+   204b r: D
+   2052 NS i
+   2059 s un
+   2060 able
+   2067  to 
+   206e reso
+   2075 lve 
+   207a @ serv
+   2081 @$er a
+   2088 @(ddref
+   2090 @,ss
+   20b7 Erro
+   20be r: U
+   20c5 nabl
+   20cc e to
+   20d3  con
+   20da nect
+   20e1  to 
+   20e8 the 
+   20ed @ servf
+   20f5 @$er
+   211c Erro
+   2123 r: R
+   212a esul
+   2131 t st
+   2138 ring
+   213f  too
+   2146  lar
+   214d ge. 
+   2152 @ Incr
+   2159 @$ease
+   2160 @( SUB
+   2167 @,MITR
+   216e @0_MAX
+   2175 @4BUF
+   2191 <_un
+   21db D$$P
+   22bb D$,P
+   2336 Erro
+   233d r: C
+   2344 lien
+   234b t un
+   2352 able
+   2359  to 
+   2360 read
+   2367  hea
+   236c @ ders
+   2373 @$ fro
+   237a @(m se
+   2381 @,rver
+   23d8 Erro
+   23df r: C
+   23e6 lien
+   23ed t un
+   23f4 able
+   23fb  to 
+   2402 read
+   2409  fir
+   240e @ st h
+   2415 @$eade
+   241c @(r fr
+   2423 @,om s
+   242a @0ervef
+   244a T$ RPhD
+   24ce [^_]
+   24dc Erro
+   24e3 r: C
+   24ea lien
+   24f1 t un
+   24f8 able
+   24ff  to 
+   2506 read
+   250d  sta
+   2512 @ tus 
+   2519 @$mess
+   2520 @(age 
+   2527 @,from
+   252e @0 ser
+   2535 @4ver
+   255a Erro
+   2561 r: C
+   2568 lien
+   256f t un
+   2576 able
+   257d  to 
+   2584 writ
+   258b e to
+   2590 @  the
+   2597 @$ ser
+   259e @(ver
+   264f t$(j
+   2722 Erro
+   2729 r: C
+   2730 lien
+   2737 t un
+   273e able
+   2745  to 
+   274c crea
+   2753 te s
+   2758 F ockef
+   276d Erro
+   2774 r: D
+   277b NS i
+   2782 s un
+   2789 able
+   2790  to 
+   2797 reso
+   279e lve 
+   27a3 F serv
+   27aa F$er a
+   27b1 F(ddref
+   27b9 F,ss
+   28e0 [^_]
+   300e %s: Error: Couldn't open %s
+   302b Usage: %s [<input_file>]
+   3045 That's number 2.  Keep going!
+   3063 One step closer.
+   3074 Good work!  On to the next...
+   3092 One more!
+   309c Welcome to my fiendish little bomb. You have 9 phases with
+   30d8 which to blow yourself up. Have a nice day!
+   3104 Phase 1 defused. How about the next one?
+   3130 So you got that one.  Try this one.
+   3154 Impressive, but how about this?
+   3174 Good, but you're not done yet.
+   3194 GAH I will have my revenge!!!!!!!!1!!
+   31bc The moon unit will be divided into two divisions.
+   31f0 For NASA, space is still a high priority.
+   3280 So you think you can stop the bomb with ctrl-c, do you?
+   32b8 Initialization error: Running on an illegal host [1]
+   32f0 Initialization error: Running on an illegal host [2]
+   3328 Your instructor has been notified.
+   334c Congratulations! You've defused the bomb!
+   3378 Your instructor has been notified and will verify your solution.
+   33b9 Well...
+   33c1 OK. :-)
+   33c9 Invalid phase%s
+   33da Initialization error:
+   33f4 defused
+   33fc exploded
+   3405 %d:%s:%d:%s
+   3412 BOOM!!!
+   341a The bomb has blown up.
+   3431 %d %d %d %d %d %d
+   3443 Error: Premature EOF on stdin
+   3461 GRADE_BOMB
+   346c Error: Input line too long
+   3487 ***truncated***
+   3497 viper.zoo.cs.yale.edu
+   34ad hornet.zoo.cs.yale.edu
+   34c4 cricket.zoo.cs.yale.edu
+   34dc newt.zoo.cs.yale.edu
+   34f1 termite.zoo.cs.yale.edu
+   3509 python.zoo.cs.yale.edu
+   3520 cicada.zoo.cs.yale.edu
+   3537 bumblebee.zoo.cs.yale.edu
+   3551 cobra.zoo.cs.yale.edu
+   3567 frog.zoo.cs.yale.edu
+   357c tick.zoo.cs.yale.edu
+   3591 turtle.zoo.cs.yale.edu
+   35a8 aphid.zoo.cs.yale.edu
+   35be ladybug.zoo.cs.yale.edu
+   35d6 chameleon.zoo.cs.yale.edu
+   35f0 rattlesnake.zoo.cs.yale.edu
+   360c scorpion.zoo.cs.yale.edu
+   3625 perch.zoo.cs.yale.edu
+   363b dolphin.zoo.cs.yale.edu
+   3653 kangaroo.zoo.cs.yale.edu
+   366c hippo.zoo.cs.yale.edu
+   3682 swan.zoo.cs.yale.edu
+   3697 gator.zoo.cs.yale.edu
+   36ad jaguar.zoo.cs.yale.edu
+   36c4 rhino.zoo.cs.yale.edu
+   36da grizzly.zoo.cs.yale.edu
+   36f2 macaw.zoo.cs.yale.edu
+   3708 monkey.zoo.cs.yale.edu
+   371f cardinal.zoo.cs.yale.edu
+   3738 peacock.zoo.cs.yale.edu
+   3750 lion.zoo.cs.yale.edu
+   3765 giraffee.zoo.cs.yale.edu
+   377e hare.zoo.cs.yale.edu
+   3793 raven.zoo.cs.yale.edu
+   37a9 tiger.zoo.cs.yale.edu
+   37bf hawk.zoo.cs.yale.edu
+   37d4 woodpecker.zoo.cs.yale.edu
+   37ef zebra.zoo.cs.yale.edu
+   3805 bertie.cs.yale.internal
+   3820 Program timed out after %d seconds
+   3844 Error: HTTP request failed with error %d: %s
+   3874 Error: Result string contains an illegal or unprintable character.
+   38b8 GET /%s/submitr.pl/?userid=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+   3904 Error: Unable to connect to server %s
+   392a %%%02X
+   3931 %s %d %[a-zA-z ]
+   3948 cs323.cs.yale.edu
+   395b AUTORESULT_STRING=%s
+   3971 CS323Spring22
+   397f csapp
+   3b1b ;*2$"4
+   51c0 jb3545
+   57e0 GCC: (GNU) 11.1.1 20210531 (Red Hat 11.1.1-3)
+   580e GCC: (GNU) 11.2.1 20210728 (Red Hat 11.2.1-1)
+   584c 3g979
+   586c running gcc 11.1.1 20210531
+   5898 annobin gcc 11.1.1 20210531
+   58c0 GA*GOW
+   58d8 GA+stack_clash
+   58f4 GA*cf_protection
+   5914 GA*FORTIFY
+   5930 GA+GLIBCXX_ASSERTIONS
+   597c GA+omit_frame_pointer
+   59b4 GA+stack_realign
+   59d8 3g979
+   59f8 running gcc 11.1.1 20210531
+   5a24 annobin gcc 11.1.1 20210531
+   5a4c GA*GOW
+   5a64 GA+stack_clash
+   5a80 GA*cf_protection
+   5aa0 GA*FORTIFY
+   5abc GA+GLIBCXX_ASSERTIONS
+   5b08 GA+omit_frame_pointer
+   5b40 GA+stack_realign
+   5b64 3g979
+   5b84 running gcc 11.1.1 20210531
+   5bb0 annobin gcc 11.1.1 20210531
+   5bd8 GA*GOW
+   5bf0 GA+stack_clash
+   5c0c GA*cf_protection
+   5c2c GA*FORTIFY
+   5c48 GA+GLIBCXX_ASSERTIONS
+   5c94 GA+omit_frame_pointer
+   5ccc GA+stack_realign
+   5cf0 3g979
+   5d10 running gcc 11.1.1 20210531
+   5d3c annobin gcc 11.1.1 20210531
+   5d64 GA*GOW
+   5d7c GA+stack_clash
+   5d98 GA*cf_protection
+   5db8 GA*FORTIFY
+   5dd4 GA+GLIBCXX_ASSERTIONS
+   5e20 GA+omit_frame_pointer
+   5e58 GA+stack_realign
+   5e7c 3g979
+   5e9c running gcc 11.1.1 20210531
+   5ec8 annobin gcc 11.1.1 20210531
+   5ef0 GA*GOW
+   5f08 GA+stack_clash
+   5f24 GA*cf_protection
+   5f44 GA*FORTIFY
+   5f60 GA+GLIBCXX_ASSERTIONS
+   5fac GA+omit_frame_pointer
+   5fe4 GA+stack_realign
+   6008 3g979
+   6028 running gcc 11.1.1 20210531
+   6054 annobin gcc 11.1.1 20210531
+   607c GA*GOW
+   6094 GA+stack_clash
+   60b0 GA*cf_protection
+   60d0 GA*FORTIFY
+   60ec GA+GLIBCXX_ASSERTIONS
+   6138 GA+omit_frame_pointer
+   6170 GA+stack_realign
+   6194 3g979
+   61b4 running gcc 11.1.1 20210531
+   61e0 annobin gcc 11.1.1 20210531
+   6208 GA*GOW
+   6220 GA+stack_clash
+   623c GA*cf_protection
+   625c GA*FORTIFY
+   6278 GA+GLIBCXX_ASSERTIONS
+   62c4 GA+omit_frame_pointer
+   62fc GA+stack_realign
+   6320 3g979
+   6340 running gcc 11.1.1 20210531
+   636c annobin gcc 11.1.1 20210531
+   6394 GA*GOW
+   63ac GA+stack_clash
+   63c8 GA*cf_protection
+   63e8 GA*FORTIFY
+   6404 GA+GLIBCXX_ASSERTIONS
+   6450 GA+omit_frame_pointer
+   6488 GA+stack_realign
+   64ac 3g979
+   64cc running gcc 11.1.1 20210531
+   64f8 annobin gcc 11.1.1 20210531
+   6520 GA*GOW
+   6538 GA+stack_clash
+   6554 GA*cf_protection
+   6574 GA*FORTIFY
+   6590 GA+GLIBCXX_ASSERTIONS
+   65dc GA+omit_frame_pointer
+   6614 GA+stack_realign
+   6638 3g979
+   6658 running gcc 11.1.1 20210531
+   6684 annobin gcc 11.1.1 20210531
+   66ac GA*GOW
+   66c4 GA+stack_clash
+   66e0 GA*cf_protection
+   6700 GA*FORTIFY
+   671c GA+GLIBCXX_ASSERTIONS
+   6768 GA+omit_frame_pointer
+   67a0 GA+stack_realign
+   67c4 3g979
+   67e4 running gcc 11.1.1 20210531
+   6810 annobin gcc 11.1.1 20210531
+   6838 GA*GOW
+   6850 GA+stack_clash
+   686c GA*cf_protection
+   688c GA*FORTIFY
+   68a8 GA+GLIBCXX_ASSERTIONS
+   68f4 GA+omit_frame_pointer
+   692c GA+stack_realign
+   6968 GA*FORTIFY
+   6984 GA+GLIBCXX_ASSERTIONS
+   69ac 3g979
+   69cc running gcc 11.1.1 20210531
+   69f8 annobin gcc 11.1.1 20210531
+   6a20 GA*GOW
+   6a38 GA+stack_clash
+   6a54 GA*cf_protection
+   6a74 GA*FORTIFY
+   6a90 GA+GLIBCXX_ASSERTIONS
+   6adc GA+omit_frame_pointer
+   6b14 GA+stack_realign
+   6b38 3g979
+   6b58 running gcc 11.1.1 20210531
+   6b84 annobin gcc 11.1.1 20210531
+   6bac GA*GOW
+   6bc4 GA+stack_clash
+   6be0 GA*cf_protection
+   6c00 GA*FORTIFY
+   6c1c GA+GLIBCXX_ASSERTIONS
+   6c68 GA+omit_frame_pointer
+   6ca0 GA+stack_realign
+   6cc4 3g979
+   6ce4 running gcc 11.1.1 20210531
+   6d10 annobin gcc 11.1.1 20210531
+   6d38 GA*GOW
+   6d50 GA+stack_clash
+   6d6c GA*cf_protection
+   6d8c GA*FORTIFY
+   6da8 GA+GLIBCXX_ASSERTIONS
+   6df4 GA+omit_frame_pointer
+   6e2c GA+stack_realign
+   6e50 3g979
+   6e70 running gcc 11.1.1 20210531
+   6e9c annobin gcc 11.1.1 20210531
+   6ec4 GA*GOW
+   6edc GA+stack_clash
+   6ef8 GA*cf_protection
+   6f18 GA*FORTIFY
+   6f34 GA+GLIBCXX_ASSERTIONS
+   6f80 GA+omit_frame_pointer
+   6fb8 GA+stack_realign
+   7719 ;!$9
+   796e printf
+   7975 __off_t
+   797d _IO_read_ptr
+   798a _chain
+   7991 size_t
+   7998 _shortbuf
+   79a2 _IO_buf_base
+   79af long long unsigned int
+   79c6 __int64_t
+   79d0 long long int
+   79de phase_defused
+   79ec _fileno
+   79f4 _IO_read_end
+   7a01 _flags
+   7a08 _IO_buf_end
+   7a14 _cur_column
+   7a20 _IO_codecvt
+   7a2c _old_offset
+   7a38 infile
+   7a3f initialize_bomb
+   7a4f _IO_marker
+   7a5a stdin
+   7a60 _freeres_buf
+   7a6d _IO_write_ptr
+   7a7b short unsigned int
+   7a8e _IO_save_base
+   7a9c _lock
+   7aa2 _flags2
+   7aaa _mode
+   7ab0 __builtin_puts
+   7abf _IO_write_end
+   7acd _IO_lock_t
+   7ad8 _IO_FILE
+   7ae1 read_line
+   7aeb fopen
+   7af1 GNU C17 11.2.1 20210728 (Red Hat 11.2.1-1) -m32 -mtune=generic -march=i686 -ggdb -O1
+   7b46 _markers
+   7b4f unsigned char
+   7b5d short int
+   7b67 _IO_wide_data
+   7b75 _vtable_offset
+   7b84 exit
+   7b89 input
+   7b8f __off64_t
+   7b99 _IO_read_base
+   7ba7 _IO_save_end
+   7bb4 __pad5
+   7bbb _unused2
+   7bc4 argv
+   7bc9 phase_1
+   7bd1 phase_2
+   7bd9 phase_3
+   7be1 phase_4
+   7be9 phase_5
+   7bf1 phase_6
+   7bf9 phase_7
+   7c01 phase_8
+   7c09 phase_9
+   7c11 _IO_backup_base
+   7c21 argc
+   7c26 _freeres_list
+   7c34 main
+   7c39 _IO_write_base
+   7c48 /home/ramla/323proj2/bomblab/src
+   7c69 bomb.c
+   7c70 /usr/lib/gcc/x86_64-redhat-linux/11/include
+   7c9c /usr/include/bits
+   7cae /usr/include/bits/types
+   7cc6 /usr/include
+   7cd3 stddef.h
+   7cdc types.h
+   7ce4 struct_FILE.h
+   7cf2 stdio.h
+   7cfa phases.h
+   7d03 support.h
+   7d0d stdlib.h
+   7d16 <built-in>
+   8a71 /usr/lib/gcc/x86_64-redhat-linux/11/../../../../lib/crt1.o
+   8aac .annobin_lto
+   8ab9 .annobin_lto_end
+   8aca .annobin_lto.hot
+   8adb .annobin_lto_end.hot
+   8af0 .annobin_lto.unlikely
+   8b06 .annobin_lto_end.unlikely
+   8b20 .annobin_lto.startup
+   8b35 .annobin_lto_end.startup
+   8b4e .annobin_lto.exit
+   8b60 .annobin_lto_end.exit
+   8b76 __abi_tag
+   8b80 .annobin__dl_relocate_static_pie.start
+   8ba7 .annobin__dl_relocate_static_pie.end
+   8bcc crtstuff.c
+   8bd7 deregister_tm_clones
+   8bec __do_global_dtors_aux
+   8c02 completed.0
+   8c0e __do_global_dtors_aux_fini_array_entry
+   8c35 frame_dummy
+   8c41 __frame_dummy_init_array_entry
+   8c60 bomb.c
+   8c67 phases.c
+   8c70 array.0
+   8c78 support.c
+   8c82 sig_handler
+   8c8e driverlib.c
+   8c9a rio_readlineb
+   8ca8 __FRAME_END__
+   8cb6 __init_array_end
+   8cc7 _DYNAMIC
+   8cd0 __init_array_start
+   8ce3 __GNU_EH_FRAME_HDR
+   8cf6 _GLOBAL_OFFSET_TABLE_
+   8d0c __libc_csu_fini
+   8d1c skip
+   8d21 phase_defused
+   8d33 strcmp@GLIBC_2.0
+   8d44 read@GLIBC_2.0
+   8d53 __x86.get_pc_thunk.bx
+   8d69 fflush@GLIBC_2.0
+   8d7e stderr@GLIBC_2.0
+   8d8f __x86.get_pc_thunk.bp
+   8da5 memmove@GLIBC_2.0
+   8db7 fgets@GLIBC_2.0
+   8dc7 _edata
+   8dce signal@GLIBC_2.0
+   8ddf sleep@GLIBC_2.0
+   8dff alarm@GLIBC_2.0
+   8e0f num_input_strings
+   8e21 phase_5
+   8e29 initialize_bomb_solve
+   8e3f phase_7
+   8e47 blank_line
+   8e52 phase_9
+   8e5a submitr
+   8e62 phase_3
+   8e6a phase_1
+   8e72 invalid_phase
+   8e80 init_driver
+   8e8c strcpy@GLIBC_2.0
+   8e9d node3
+   8ea3 explode_bomb
+   8eb0 gethostname@GLIBC_2.0
+   8ec6 node1
+   8ecc getenv@GLIBC_2.0
+   8edd malloc@GLIBC_2.0
+   8eee __data_start
+   8efb puts@GLIBC_2.0
+   8f0a node5
+   8f10 __gmon_start__
+   8f1f exit@GLIBC_2.0
+   8f2e __dso_handle
+   8f3b fun9
+   8f40 _IO_stdin_used
+   8f53 host_table
+   8f61 strlen@GLIBC_2.0
+   8f72 __libc_start_main@GLIBC_2.0
+   8f8e fprintf@GLIBC_2.0
+   8fa0 write@GLIBC_2.0
+   8fb0 string_length
+   8fbe strcasecmp@GLIBC_2.0
+   8fd3 __libc_csu_init
+   8fe3 stdin@GLIBC_2.0
+   8ff3 __isoc99_sscanf@GLIBC_2.7
+   9011 fopen@GLIBC_2.1
+   9021 func6
+   902b __errno_location@GLIBC_2.0
+   9046 _dl_relocate_static_pie
+   905e _fp_hw
+   9065 infile
+   906c sigalrm_handler
+   907c init_timeout
+   9089 stdout@GLIBC_2.0
+   909a __bss_start
+   90a6 userid
+   90ad main
+   90be read_line
+   90cc strings_not_equal
+   90de phase_4
+   90e6 phase_8
+   90ee phase_6
+   90f6 scratch
+   90fe driver_post
+   910a send_msg
+   9113 phase_2
+   911b sprintf@GLIBC_2.0
+   912d bomb_id
+   9135 socket@GLIBC_2.0
+   9146 __TMC_END__
+   9152 node2
+   9158 node4
+   915e gethostbyname@GLIBC_2.0
+   9176 strtol@GLIBC_2.0
+   9187 node6
+   918d connect@GLIBC_2.0
+   919f close@GLIBC_2.0
+   91af read_six_numbers
+   91c4 initialize_bomb
+   91d4 __ctype_b_loc@GLIBC_2.3
+   91ed .symtab
+   91f5 .strtab
+   91fd .shstrtab
+   9207 .interp
+   920f .note.gnu.build-id
+   9222 .note.gnu.property
+   9235 .note.ABI-tag
+   9243 .gnu.hash
+   924d .dynsym
+   9255 .dynstr
+   925d .gnu.version
+   926a .gnu.version_r
+   9279 .rel.dyn
+   9282 .rel.plt
+   928b .init
+   9291 .text
+   9297 .fini
+   929d .rodata
+   92a5 .eh_frame_hdr
+   92b3 .eh_frame
+   92bd .init_array
+   92c9 .fini_array
+   92d5 .dynamic
+   92de .got
+   92e3 .got.plt
+   92ec .data
+   92f2 .bss
+   92f7 .comment
+   9300 .gnu.build.attributes
+   9316 .debug_aranges
+   9325 .debug_info
+   9331 .debug_abbrev
+   933f .debug_line
+   934b .debug_str
+   9356 .debug_line_str
+   9366 .debug_loclists
